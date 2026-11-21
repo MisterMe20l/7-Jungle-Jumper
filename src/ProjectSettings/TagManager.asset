@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - DoorSpawnpoint
+  - WorldSound
+  - ExitPortal
+  - EventSystem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Friendly Projectile
+  - Enemy Projectile
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Camera Background
+    uniqueID: 2055044871
+    locked: 0
+  - name: Background
+    uniqueID: 3049813477
+    locked: 0
+  - name: Decorations
+    uniqueID: 2102950017
+    locked: 0
+  - name: Ground
+    uniqueID: 3480541637
+    locked: 0
+  - name: Player
+    uniqueID: 242757951
+    locked: 0
+  - name: UI
+    uniqueID: 2285286377
+    locked: 0

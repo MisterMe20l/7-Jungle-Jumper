@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9de62b04b6ff36141bf3da0fa847a51f, type: 3}
+  m_Name: Enemy Ammo
+  m_EditorClassIdentifier: 
+  m_damage: 10
+  m_speed: 7
+  m_targetLayer:
+    serializedVersion: 2
+    m_Bits: 128
+  m_target: {fileID: 2299399181901756133, guid: 8254b63accad35e428a9d85d75bb8181, type: 3}

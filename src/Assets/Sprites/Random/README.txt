@@ -1,0 +1,1 @@
+Alle Sprites hier sind entweder von Google Images oder andere Quellen mit 'Creative Commons Licences'.
