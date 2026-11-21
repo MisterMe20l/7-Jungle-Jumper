@@ -10,3 +10,5 @@ Main (unknown) Keys:
 All damage instances deal 10 of it. The player has 100 HP and the boss 500.
 Music theme with forest and cave white-noise + soundeffects.
 Kill the boss to unlock the exit portal and return to the main menu.
+
+(Design-Dokument leider als Krank gemacht, dann ich könnte nicht lange daran arbeiten)
